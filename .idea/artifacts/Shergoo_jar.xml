@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Shergoo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shergoo_jar</output-path>
+    <root id="archive" name="Shergoo.jar">
+      <element id="module-output" name="Shergoo" />
+    </root>
+  </artifact>
+</component>
